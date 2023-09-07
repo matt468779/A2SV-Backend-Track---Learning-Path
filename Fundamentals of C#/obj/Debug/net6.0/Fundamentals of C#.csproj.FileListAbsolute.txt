@@ -13,3 +13,18 @@
 /home/matt/Documents/A2SV Project Phase/Backend Track/Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.pdb
 /home/matt/Documents/A2SV Project Phase/Backend Track/Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.genruntimeconfig.cache
 /home/matt/Documents/A2SV Project Phase/Backend Track/Learning Path/Fundamentals of C#/obj/Debug/net6.0/ref/Fundamentals of C#.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/bin/Debug/net6.0/Fundamentals of C#
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/bin/Debug/net6.0/Fundamentals of C#.deps.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/bin/Debug/net6.0/Fundamentals of C#.runtimeconfig.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/bin/Debug/net6.0/Fundamentals of C#.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/bin/Debug/net6.0/Fundamentals of C#.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.csproj.AssemblyReference.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.AssemblyInfoInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.AssemblyInfo.cs
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.csproj.CoreCompileInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/refint/Fundamentals of C#.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/Fundamentals of C#.genruntimeconfig.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/Debug/net6.0/ref/Fundamentals of C#.dll
