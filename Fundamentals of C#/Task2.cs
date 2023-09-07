@@ -1,5 +1,3 @@
-using System.Xml.XPath;
-
 namespace Task
 {
     class Task2
