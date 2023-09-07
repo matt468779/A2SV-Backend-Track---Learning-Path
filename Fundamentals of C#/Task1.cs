@@ -35,7 +35,7 @@ namespace Task
                 Console.WriteLine();
             }
 
-            double average = this.CalculateAverage(subject_grade_dict);
+            double average = CalculateAverage(subject_grade_dict);
             this.DisplayInfo(name, subject_grade_dict, average);
         }
 
