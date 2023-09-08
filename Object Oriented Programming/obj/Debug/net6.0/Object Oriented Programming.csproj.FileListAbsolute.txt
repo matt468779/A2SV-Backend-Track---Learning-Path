@@ -1,0 +1,15 @@
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/bin/Debug/net6.0/Object Oriented Programming
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/bin/Debug/net6.0/Object Oriented Programming.deps.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/bin/Debug/net6.0/Object Oriented Programming.runtimeconfig.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/bin/Debug/net6.0/Object Oriented Programming.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/bin/Debug/net6.0/Object Oriented Programming.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.csproj.AssemblyReference.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.AssemblyInfoInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.AssemblyInfo.cs
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.csproj.CoreCompileInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/refint/Object Oriented Programming.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/Object Oriented Programming.genruntimeconfig.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Object Oriented Programming/obj/Debug/net6.0/ref/Object Oriented Programming.dll
