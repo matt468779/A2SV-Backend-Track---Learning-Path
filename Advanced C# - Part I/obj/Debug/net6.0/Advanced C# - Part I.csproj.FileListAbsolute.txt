@@ -1,0 +1,15 @@
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/bin/Debug/net6.0/Advanced C# - Part I
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/bin/Debug/net6.0/Advanced C# - Part I.deps.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/bin/Debug/net6.0/Advanced C# - Part I.runtimeconfig.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/bin/Debug/net6.0/Advanced C# - Part I.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/bin/Debug/net6.0/Advanced C# - Part I.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.csproj.AssemblyReference.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.AssemblyInfoInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.AssemblyInfo.cs
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.csproj.CoreCompileInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/refint/Advanced C# - Part I.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/Advanced C# - Part I.genruntimeconfig.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part I/obj/Debug/net6.0/ref/Advanced C# - Part I.dll
