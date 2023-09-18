@@ -76,6 +76,7 @@ namespace AdvancedI
         {
             try
             {
+                File.Create(FilePath).Close();
                 foreach (MyTask task in Tasks)
                 {
                     await File.AppendAllTextAsync(FilePath, task.ToString());
