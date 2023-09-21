@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/Fundamentals of C#.csproj",
-      "projectName": "Fundamentals of C#",
-      "projectPath": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/Fundamentals of C#.csproj",
+      "projectUniqueName": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part II/Advanced C# - Part II.csproj",
+      "projectName": "Advanced C# - Part II",
+      "projectPath": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part II/Advanced C# - Part II.csproj",
       "packagesPath": "/home/matt/.nuget/packages/",
-      "outputPath": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Fundamentals of C#/obj/",
+      "outputPath": "/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Advanced C# - Part II/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matt/.nuget/NuGet/NuGet.Config"
