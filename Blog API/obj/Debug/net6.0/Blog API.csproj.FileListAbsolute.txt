@@ -1,0 +1,49 @@
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.csproj.AssemblyReference.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.AssemblyInfoInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.AssemblyInfo.cs
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.csproj.CoreCompileInputs.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.MvcApplicationPartsAssemblyInfo.cs
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.MvcApplicationPartsAssemblyInfo.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/appsettings.Development.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/appsettings.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Blog API
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Blog API.deps.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Blog API.runtimeconfig.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Blog API.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Blog API.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Humanizer.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Mono.TextTemplating.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Npgsql.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/System.CodeDom.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/System.Text.Json.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/staticwebassets.build.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/staticwebassets.development.json
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/scopedcss/bundle/Blog API.styles.css
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.csproj.CopyComplete
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/refint/Blog API.dll
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.pdb
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/Blog API.genruntimeconfig.cache
+/home/matt/Documents/A2SV Project Phase/Backend Track/A2SV Backend Track - Learning Path/Blog API/obj/Debug/net6.0/ref/Blog API.dll
